@@ -10,6 +10,6 @@
     ],
     "profile": {
       "name": "typicode"
-    }
-    "link": "https://github.com/SelomieK/smce-gd/blob/gh-pages/index.md"
+    },
+    "link": { "url": "https://github.com/SelomieK/smce-gd/blob/gh-pages/index.md" }    
   }
